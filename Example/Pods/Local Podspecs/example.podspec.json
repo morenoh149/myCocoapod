@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "version": "0.1.0",
+  "summary": "A short description of example.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Harry Moreno/example",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Harry Moreno": "morenoh149@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Harry Moreno/example.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "example/Classes/**/*"
+}
